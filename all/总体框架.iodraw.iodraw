@@ -34,7 +34,7 @@
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-10" value="FinancialCrew" style="shape=hexagon;perimeter=hexagonPerimeter2;fixedSize=1;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1853" y="627" width="130" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="-JQnTfBx5oxVQv8R-zzT-11" value="NewsSearcher" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="-JQnTfBx5oxVQv8R-zzT-11" value="新闻智能体" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1420" y="820" width="160" height="52" as="geometry" />
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-12" value="PriceTracker" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
