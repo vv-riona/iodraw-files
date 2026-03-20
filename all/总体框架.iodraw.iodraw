@@ -22,9 +22,6 @@
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-6" value="② 任务编排&#xa;&#xa;&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1692" y="497.5" width="528" height="87" as="geometry" />
         </mxCell>
-        <mxCell id="-JQnTfBx5oxVQv8R-zzT-7" value="① 交互与展示" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2243" y="490" width="206" height="1602" as="geometry" />
-        </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-8" value="用户查询" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2302" y="515" width="88" height="37" as="geometry" />
         </mxCell>
@@ -94,9 +91,6 @@
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.95;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-JQnTfBx5oxVQv8R-zzT-10" target="-JQnTfBx5oxVQv8R-zzT-5">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1755" y="688" />
-            </Array>
             <mxPoint x="1940" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -198,16 +192,6 @@
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-16" value="StockPriceTool" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1520" y="1090" width="162" height="52" as="geometry" />
-        </mxCell>
-        <mxCell id="-JQnTfBx5oxVQv8R-zzT-68" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.75;rounded=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-JQnTfBx5oxVQv8R-zzT-10" target="-JQnTfBx5oxVQv8R-zzT-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2080" y="640" />
-              <mxPoint x="1990" y="640" />
-            </Array>
-            <mxPoint x="1915" y="582" as="sourcePoint" />
-            <mxPoint x="1820" y="720" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
