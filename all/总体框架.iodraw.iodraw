@@ -20,7 +20,7 @@
           <mxGeometry x="1400" y="710" width="820" height="240" as="geometry" />
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-6" value="② 任务编排" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1685" y="602" width="528" height="87" as="geometry" />
+          <mxGeometry x="1692" y="497.5" width="528" height="87" as="geometry" />
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-7" value="① 交互与展示" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2243" y="490" width="206" height="1602" as="geometry" />
@@ -89,7 +89,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2346" y="602" />
-              <mxPoint x="2020" y="590" />
             </Array>
           </mxGeometry>
         </mxCell>
