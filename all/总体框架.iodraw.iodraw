@@ -8,7 +8,7 @@
           <mxGeometry x="470" y="742.5" width="780" height="125" as="geometry" />
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-2" value="⑥ 外部服务&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="430" y="900" width="830" height="150" as="geometry" />
+          <mxGeometry x="460" y="900" width="830" height="150" as="geometry" />
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-3" value="⑤ 机器学习&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="90" y="731" width="323" height="319" as="geometry" />
@@ -38,7 +38,7 @@
           <mxGeometry x="1070" y="782" width="156" height="39.5" as="geometry" />
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-20" value="技术指标特征工程" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1368.5" y="815.5" width="190" height="52" as="geometry" />
+          <mxGeometry x="150" y="815.5" width="190" height="52" as="geometry" />
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-21" value="深度序列回归与随机森林集成" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1337" y="920" width="253" height="69" as="geometry" />
