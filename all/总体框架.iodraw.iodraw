@@ -32,10 +32,10 @@
           <mxGeometry x="2278" y="2030" width="136" height="37" as="geometry" />
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-17" value="DataAnalysisTool" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="929" y="781" width="120" height="40" as="geometry" />
+          <mxGeometry x="795" y="784.75" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-18" value="ReportRetrievalTool" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1070" y="782" width="138.5" height="39" as="geometry" />
+          <mxGeometry x="941" y="784.75" width="138.5" height="39" as="geometry" />
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-19" value="ReportAnalysisTool" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1330" y="785.25" width="156" height="39.5" as="geometry" />
@@ -117,7 +117,7 @@
           <mxGeometry x="492" y="780" width="130" height="41" as="geometry" />
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-16" value="StockPriceTool" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="790" y="780" width="120" height="40" as="geometry" />
+          <mxGeometry x="640" y="781" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-6" value="任务编排" style="whiteSpace=wrap;strokeWidth=2;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1030" y="451" width="120" height="55" as="geometry" />
