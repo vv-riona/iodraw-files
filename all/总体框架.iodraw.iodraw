@@ -136,6 +136,9 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1790" y="796" as="sourcePoint" />
             <mxPoint x="1835" y="796" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1390" y="590" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-76" value="前三者结果汇集" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=1;points=[];movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" connectable="0" parent="-JQnTfBx5oxVQv8R-zzT-56">
