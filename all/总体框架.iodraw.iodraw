@@ -124,7 +124,7 @@
           <mxGeometry x="990" y="594" width="89.5" height="52" as="geometry" />
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-14" value="投资顾问智能体" style="whiteSpace=wrap;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1182" y="594" width="108.5" height="52" as="geometry" />
+          <mxGeometry x="1226" y="594" width="108.5" height="52" as="geometry" />
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-55" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-JQnTfBx5oxVQv8R-zzT-12" target="-JQnTfBx5oxVQv8R-zzT-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -140,7 +140,7 @@
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-76" value="前三者结果汇集" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=1;points=[];movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" connectable="0" parent="-JQnTfBx5oxVQv8R-zzT-56">
           <mxGeometry x="-0.1042" y="9" relative="1" as="geometry">
-            <mxPoint x="5" y="-11" as="offset" />
+            <mxPoint x="-15" y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-72" value="可视化智能体" style="whiteSpace=wrap;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
