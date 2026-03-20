@@ -35,16 +35,16 @@
           <mxGeometry x="1853" y="627" width="130" height="37" as="geometry" />
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-11" value="NewsSearcher" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1441" y="820" width="160" height="52" as="geometry" />
+          <mxGeometry x="1420" y="820" width="160" height="52" as="geometry" />
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-12" value="PriceTracker" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1654" y="820" width="145" height="52" as="geometry" />
+          <mxGeometry x="1620" y="820" width="145" height="52" as="geometry" />
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-13" value="ReportAnalyst" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1900" y="820" width="159" height="52" as="geometry" />
+          <mxGeometry x="1810" y="820" width="159" height="52" as="geometry" />
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-14" value="InvestmentAdvisor" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1813" y="1127" width="192" height="52" as="geometry" />
+          <mxGeometry x="2021" y="820" width="192" height="52" as="geometry" />
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-15" value="NewsSearchTool" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="407" y="1127" width="175" height="52" as="geometry" />
