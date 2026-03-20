@@ -83,7 +83,7 @@
           <mxGeometry x="1919" y="1904" width="172" height="52" as="geometry" />
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-29" value="汇聚展示" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1918" y="1658" width="173" height="69" as="geometry" />
+          <mxGeometry x="2010" y="1530" width="173" height="69" as="geometry" />
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=1;entryY=0.31;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-JQnTfBx5oxVQv8R-zzT-8" target="-JQnTfBx5oxVQv8R-zzT-10">
           <mxGeometry relative="1" as="geometry">
@@ -125,12 +125,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-JQnTfBx5oxVQv8R-zzT-47" value="result 字典" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.81;entryX=0.91;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-JQnTfBx5oxVQv8R-zzT-10" target="-JQnTfBx5oxVQv8R-zzT-29">
+        <mxCell id="-JQnTfBx5oxVQv8R-zzT-47" value="result 字典" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.81;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="-JQnTfBx5oxVQv8R-zzT-29">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2153" y="688" />
-              <mxPoint x="2153" y="1620" />
+              <mxPoint x="2153" y="617.87" />
+              <mxPoint x="2153" y="1549.87" />
             </Array>
+            <mxPoint x="1972.5865633074936" y="585.0024289405684" as="sourcePoint" />
+            <mxPoint x="2167.4300000000003" y="1459.87" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-49" value="预测指标与解释" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.29;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-JQnTfBx5oxVQv8R-zzT-21" target="-JQnTfBx5oxVQv8R-zzT-29">
