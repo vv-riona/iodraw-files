@@ -11,7 +11,7 @@
           <mxGeometry x="1874" y="1777" width="262" height="203" as="geometry" />
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-2" value="⑥ 外部服务&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="410" y="900" width="1190" height="150" as="geometry" />
+          <mxGeometry x="390" y="900" width="1190" height="150" as="geometry" />
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-3" value="⑤ 机器学习（界面主流程内的数值模块）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1415" y="1263" width="323" height="319" as="geometry" />
@@ -56,7 +56,7 @@
           <mxGeometry x="698" y="951.5" width="129" height="75" as="geometry" />
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-25" value="LLM" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1030" y="952.75" width="90.5" height="68.5" as="geometry" />
+          <mxGeometry x="1010" y="950" width="90.5" height="68.5" as="geometry" />
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-26" value="微调模型" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="880" y="952.75" width="80" height="67.25" as="geometry" />
@@ -214,7 +214,7 @@
             <mxPoint x="1868" y="805" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-JQnTfBx5oxVQv8R-zzT-97" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-JQnTfBx5oxVQv8R-zzT-19">
+        <mxCell id="-JQnTfBx5oxVQv8R-zzT-97" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-JQnTfBx5oxVQv8R-zzT-19" target="-JQnTfBx5oxVQv8R-zzT-26">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1798" y="680" as="sourcePoint" />
             <mxPoint x="1878" y="815" as="targetPoint" />
