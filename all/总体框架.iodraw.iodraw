@@ -199,6 +199,15 @@
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-16" value="StockPriceTool" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1520" y="1090" width="162" height="52" as="geometry" />
         </mxCell>
+        <mxCell id="-JQnTfBx5oxVQv8R-zzT-68" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.836;exitY=1.144;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-JQnTfBx5oxVQv8R-zzT-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1765" y="698" />
+            </Array>
+            <mxPoint x="1915" y="582" as="sourcePoint" />
+            <mxPoint x="1820" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
