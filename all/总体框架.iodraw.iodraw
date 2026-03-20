@@ -17,7 +17,7 @@
           <mxGeometry x="680" y="550" width="820" height="140" as="geometry" />
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-8" value="用户查询" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1740" y="620" width="88" height="37" as="geometry" />
+          <mxGeometry x="1564" y="720" width="88" height="37" as="geometry" />
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-9" value="结果展示 / 图表" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2278" y="2030" width="136" height="37" as="geometry" />
