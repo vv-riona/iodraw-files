@@ -11,7 +11,7 @@
           <mxGeometry x="460" y="900" width="795" height="150" as="geometry" />
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-3" value="⑤ 机器学习&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1294.5" y="738" width="180" height="222" as="geometry" />
+          <mxGeometry x="1294.5" y="760" width="180" height="222" as="geometry" />
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-5" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="680" y="550" width="820" height="140" as="geometry" />
@@ -245,7 +245,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-120" value="用户查询" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1334.25" y="1000" width="88" height="37" as="geometry" />
+          <mxGeometry x="1520" y="930" width="88" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
