@@ -75,25 +75,9 @@
             <mxPoint x="1940" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-JQnTfBx5oxVQv8R-zzT-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-JQnTfBx5oxVQv8R-zzT-17" target="-JQnTfBx5oxVQv8R-zzT-20">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1352" y="1213" />
-              <mxPoint x="1576" y="1238" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-41" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-JQnTfBx5oxVQv8R-zzT-20" target="-JQnTfBx5oxVQv8R-zzT-21">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-JQnTfBx5oxVQv8R-zzT-45" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-JQnTfBx5oxVQv8R-zzT-19" target="-JQnTfBx5oxVQv8R-zzT-26">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1077" y="1213" />
-              <mxPoint x="1263" y="1238" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-49" value="预测指标与解释" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.29;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-JQnTfBx5oxVQv8R-zzT-21" target="-JQnTfBx5oxVQv8R-zzT-29">
@@ -129,15 +113,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-JQnTfBx5oxVQv8R-zzT-61" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-JQnTfBx5oxVQv8R-zzT-15" target="-JQnTfBx5oxVQv8R-zzT-16">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="1510" y="882" as="sourcePoint" />
-            <mxPoint x="505" y="1137" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-15" value="NewsSearchTool" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1090" y="1023" width="175" height="52" as="geometry" />
+          <mxGeometry x="700" y="779" width="175" height="52" as="geometry" />
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-16" value="StockPriceTool" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1520" y="1090" width="162" height="52" as="geometry" />
