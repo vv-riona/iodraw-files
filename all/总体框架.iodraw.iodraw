@@ -50,7 +50,7 @@
           <mxGeometry x="407" y="1127" width="175" height="52" as="geometry" />
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-16" value="StockPriceTool" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="195" y="1127" width="162" height="52" as="geometry" />
+          <mxGeometry x="530" y="1119" width="162" height="52" as="geometry" />
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-17" value="DataAnalysisTool" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1262" y="1127" width="179" height="52" as="geometry" />
