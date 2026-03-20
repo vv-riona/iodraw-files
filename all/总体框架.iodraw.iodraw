@@ -35,7 +35,7 @@
           <mxGeometry x="1891" y="540" width="130" height="37" as="geometry" />
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-11" value="新闻智能体" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="800" y="671" width="160" height="52" as="geometry" />
+          <mxGeometry x="800" y="671" width="90" height="52" as="geometry" />
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-12" value="价格追踪智能体" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1022" y="671" width="145" height="52" as="geometry" />
