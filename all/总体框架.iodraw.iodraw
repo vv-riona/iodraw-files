@@ -38,7 +38,7 @@
           <mxGeometry x="1536" y="820" width="160" height="52" as="geometry" />
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-12" value="PriceTracker" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1740" y="820" width="145" height="52" as="geometry" />
+          <mxGeometry x="1836.5" y="820" width="145" height="52" as="geometry" />
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-13" value="ReportAnalyst" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1696" y="966" width="159" height="52" as="geometry" />
@@ -95,8 +95,10 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1813" y="840" />
+              <mxPoint x="1840" y="846" />
+              <mxPoint x="1760" y="850" />
             </Array>
-            <mxPoint x="1740" y="850" as="targetPoint" />
+            <mxPoint x="1790" y="846" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.37;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-JQnTfBx5oxVQv8R-zzT-12" target="-JQnTfBx5oxVQv8R-zzT-13">
