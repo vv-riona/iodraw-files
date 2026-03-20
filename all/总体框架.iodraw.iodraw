@@ -189,8 +189,8 @@
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-6" value="任务编排" style="whiteSpace=wrap;strokeWidth=2;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1030" y="451" width="120" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="-JQnTfBx5oxVQv8R-zzT-72" value="投资顾问智能体" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1196" y="664" width="108.5" height="52" as="geometry" />
+        <mxCell id="-JQnTfBx5oxVQv8R-zzT-72" value="可视化智能体" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1330" y="654" width="108.5" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
