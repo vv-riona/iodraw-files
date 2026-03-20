@@ -17,7 +17,7 @@
           <mxGeometry x="1415" y="1263" width="323" height="319" as="geometry" />
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-5" value="③ 智能体 · 分域分析（实现：顺序流水线）&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1400" y="710" width="820" height="240" as="geometry" />
+          <mxGeometry x="1410" y="690" width="820" height="240" as="geometry" />
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-6" value="② 任务编排&#xa;&#xa;&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1692" y="497.5" width="528" height="87" as="geometry" />
@@ -202,12 +202,7 @@
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-68" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.75;rounded=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-JQnTfBx5oxVQv8R-zzT-10" target="-JQnTfBx5oxVQv8R-zzT-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2070" y="610" />
-              <mxPoint x="2060" y="650" />
-              <mxPoint x="1765" y="698" />
-              <mxPoint x="1870" y="700" />
-              <mxPoint x="1990" y="698" />
-              <mxPoint x="2170" y="698" />
+              <mxPoint x="2080" y="640" />
             </Array>
             <mxPoint x="1915" y="582" as="sourcePoint" />
             <mxPoint x="1820" y="720" as="targetPoint" />
