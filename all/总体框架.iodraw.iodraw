@@ -114,7 +114,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-15" value="NewsSearchTool" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="700" y="779" width="175" height="52" as="geometry" />
+          <mxGeometry x="710" y="779" width="130" height="41" as="geometry" />
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-16" value="StockPriceTool" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1520" y="1090" width="162" height="52" as="geometry" />
