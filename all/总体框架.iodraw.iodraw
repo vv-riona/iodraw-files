@@ -89,6 +89,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2346" y="602" />
+              <mxPoint x="2020" y="590" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -118,16 +119,6 @@
               <mxPoint x="1077" y="1213" />
               <mxPoint x="1263" y="1238" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-JQnTfBx5oxVQv8R-zzT-47" value="result 字典" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.81;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="-JQnTfBx5oxVQv8R-zzT-29">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2153" y="617.87" />
-              <mxPoint x="2153" y="1549.87" />
-            </Array>
-            <mxPoint x="1972.5865633074936" y="585.0024289405684" as="sourcePoint" />
-            <mxPoint x="2167.4300000000003" y="1459.87" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-49" value="预测指标与解释" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.29;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-JQnTfBx5oxVQv8R-zzT-21" target="-JQnTfBx5oxVQv8R-zzT-29">
