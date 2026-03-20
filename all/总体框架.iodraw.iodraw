@@ -40,7 +40,7 @@
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-20" value="技术指标特征工程" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1346.75" y="782" width="75.5" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="-JQnTfBx5oxVQv8R-zzT-21" value="深度序列回归与随机森林集成" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="-JQnTfBx5oxVQv8R-zzT-21" value="模型集成" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1339.5" y="870" width="90" height="69" as="geometry" />
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-22" value="Polygon" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -245,7 +245,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-120" value="用户查询" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="900" y="470" width="88" height="37" as="geometry" />
+          <mxGeometry x="1334.25" y="1000" width="88" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
