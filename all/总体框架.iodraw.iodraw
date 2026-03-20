@@ -11,10 +11,10 @@
           <mxGeometry x="1874" y="1777" width="262" height="203" as="geometry" />
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-2" value="⑥ 外部服务&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="390" y="900" width="1190" height="150" as="geometry" />
+          <mxGeometry x="390" y="900" width="830" height="150" as="geometry" />
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-3" value="⑤ 机器学习（界面主流程内的数值模块）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1415" y="1263" width="323" height="319" as="geometry" />
+          <mxGeometry x="1310" y="742.5" width="323" height="319" as="geometry" />
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-5" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="680" y="550" width="820" height="140" as="geometry" />
