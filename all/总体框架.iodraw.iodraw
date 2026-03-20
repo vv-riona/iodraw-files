@@ -16,8 +16,8 @@
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-4" value="④ 工具层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="1094" width="1316" height="119" as="geometry" />
         </mxCell>
-        <mxCell id="-JQnTfBx5oxVQv8R-zzT-5" value="③ 智能体 · 分域分析（实现：顺序流水线）&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1400" y="710" width="736" height="240" as="geometry" />
+        <mxCell id="-JQnTfBx5oxVQv8R-zzT-5" value="③ 智能体 · 分域分析（实现：顺序流水线）&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1400" y="710" width="820" height="240" as="geometry" />
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-6" value="② 任务编排" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1685" y="602" width="528" height="87" as="geometry" />
@@ -35,10 +35,10 @@
           <mxGeometry x="1853" y="627" width="130" height="37" as="geometry" />
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-11" value="NewsSearcher" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1525" y="820" width="160" height="52" as="geometry" />
+          <mxGeometry x="1441" y="820" width="160" height="52" as="geometry" />
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-12" value="PriceTracker" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1722" y="820" width="145" height="52" as="geometry" />
+          <mxGeometry x="1654" y="820" width="145" height="52" as="geometry" />
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-13" value="ReportAnalyst" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1900" y="820" width="159" height="52" as="geometry" />
