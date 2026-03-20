@@ -5,7 +5,7 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-133" value="交互与展示层" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1820" y="807.38" width="166" height="212" as="geometry" />
+          <mxGeometry x="1564" y="770.38" width="166" height="212" as="geometry" />
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-4" value="   工具层&#xa;&#xa;&#xa;&#xa;" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="460" y="730" width="790" height="133" as="geometry" />
