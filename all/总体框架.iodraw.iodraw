@@ -32,7 +32,7 @@
           <mxGeometry x="2278" y="2030" width="136" height="37" as="geometry" />
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-17" value="DataAnalysisTool" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="970" y="920" width="120" height="40" as="geometry" />
+          <mxGeometry x="990" y="779" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-18" value="ReportRetrievalTool" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1150" y="786" width="138.5" height="39" as="geometry" />
@@ -178,7 +178,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-JQnTfBx5oxVQv8R-zzT-86" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="-JQnTfBx5oxVQv8R-zzT-86" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-JQnTfBx5oxVQv8R-zzT-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="580" y="780" as="sourcePoint" />
             <mxPoint x="630" y="730" as="targetPoint" />
