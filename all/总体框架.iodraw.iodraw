@@ -41,7 +41,7 @@
           <mxGeometry x="1334.5" y="800" width="100" height="52" as="geometry" />
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-21" value="深度序列回归与随机森林集成" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="118.5" y="930" width="253" height="69" as="geometry" />
+          <mxGeometry x="1339.5" y="920" width="90" height="69" as="geometry" />
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-22" value="Polygon" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="660" y="959.25" width="72" height="64" as="geometry" />
