@@ -38,7 +38,7 @@
           <mxGeometry x="1536" y="820" width="160" height="52" as="geometry" />
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-12" value="PriceTracker" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1740" y="865" width="145" height="52" as="geometry" />
+          <mxGeometry x="1740" y="820" width="145" height="52" as="geometry" />
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-13" value="ReportAnalyst" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1696" y="966" width="159" height="52" as="geometry" />
@@ -91,11 +91,12 @@
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-29" value="主程序汇聚展示&#xa;Streamlit" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1918" y="1658" width="173" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="-JQnTfBx5oxVQv8R-zzT-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.68;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-JQnTfBx5oxVQv8R-zzT-11" target="-JQnTfBx5oxVQv8R-zzT-12">
+        <mxCell id="-JQnTfBx5oxVQv8R-zzT-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-JQnTfBx5oxVQv8R-zzT-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1813" y="840" />
             </Array>
+            <mxPoint x="1740" y="850" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.37;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-JQnTfBx5oxVQv8R-zzT-12" target="-JQnTfBx5oxVQv8R-zzT-13">
