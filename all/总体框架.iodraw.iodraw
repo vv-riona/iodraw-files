@@ -5,7 +5,7 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-4" value="④ 工具层&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="470" y="742.5" width="830" height="125" as="geometry" />
+          <mxGeometry x="470" y="742.5" width="780" height="125" as="geometry" />
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-1" value="⑦ 汇总与呈现增强" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1874" y="1777" width="262" height="203" as="geometry" />
@@ -185,6 +185,18 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1738" y="620" as="sourcePoint" />
             <mxPoint x="1818" y="755" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-JQnTfBx5oxVQv8R-zzT-91" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1748" y="630" as="sourcePoint" />
+            <mxPoint x="1828" y="765" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-JQnTfBx5oxVQv8R-zzT-92" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1130" y="700" as="sourcePoint" />
+            <mxPoint x="1210" y="835" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
