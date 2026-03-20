@@ -44,7 +44,7 @@
           <mxGeometry x="2021" y="820" width="192" height="52" as="geometry" />
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-15" value="NewsSearchTool" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="220" y="1127.5" width="175" height="52" as="geometry" />
+          <mxGeometry x="1240" y="1090" width="175" height="52" as="geometry" />
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-16" value="StockPriceTool" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="530" y="1119" width="162" height="52" as="geometry" />
@@ -249,7 +249,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-4" value="④ 工具层&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1180" y="1020" width="1026" height="200" as="geometry" />
+          <mxGeometry x="1217" y="1187" width="1026" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
