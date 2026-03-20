@@ -11,7 +11,7 @@
           <mxGeometry x="460" y="900" width="795" height="150" as="geometry" />
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-3" value="⑤ 机器学习&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1294.5" y="738" width="180" height="242" as="geometry" />
+          <mxGeometry x="1294.5" y="738" width="180" height="222" as="geometry" />
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-5" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="680" y="550" width="820" height="140" as="geometry" />
@@ -41,7 +41,7 @@
           <mxGeometry x="1346.75" y="782" width="75.5" height="52" as="geometry" />
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-21" value="模型集成" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1339.5" y="870" width="90" height="69" as="geometry" />
+          <mxGeometry x="1339.5" y="870" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-22" value="Polygon" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="660" y="959.25" width="72" height="64" as="geometry" />
