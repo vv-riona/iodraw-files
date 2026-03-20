@@ -13,9 +13,6 @@
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-3" value="⑤ 机器学习（界面主流程内的数值模块）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1415" y="1263" width="323" height="319" as="geometry" />
         </mxCell>
-        <mxCell id="-JQnTfBx5oxVQv8R-zzT-4" value="④ 工具层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="1094" width="1316" height="119" as="geometry" />
-        </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-5" value="③ 智能体 · 分域分析（实现：顺序流水线）&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1400" y="710" width="820" height="240" as="geometry" />
         </mxCell>
@@ -47,7 +44,7 @@
           <mxGeometry x="2021" y="820" width="192" height="52" as="geometry" />
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-15" value="NewsSearchTool" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="407" y="1127" width="175" height="52" as="geometry" />
+          <mxGeometry x="220" y="1127.5" width="175" height="52" as="geometry" />
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-16" value="StockPriceTool" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="530" y="1119" width="162" height="52" as="geometry" />
@@ -68,10 +65,10 @@
           <mxGeometry x="1450" y="1488" width="253" height="69" as="geometry" />
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-22" value="Polygon" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="240" y="1306" width="72" height="64" as="geometry" />
+          <mxGeometry x="550" y="1309" width="72" height="64" as="geometry" />
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-23" value="NewsData.io" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="443" y="1302" width="104" height="71" as="geometry" />
+          <mxGeometry x="255.5" y="1309" width="104" height="71" as="geometry" />
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-24" value="Astra DB 向量库" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="666" y="1300" width="129" height="75" as="geometry" />
@@ -224,12 +221,9 @@
             <mxPoint x="1820" y="856" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-JQnTfBx5oxVQv8R-zzT-59" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-JQnTfBx5oxVQv8R-zzT-11" target="-JQnTfBx5oxVQv8R-zzT-15">
+        <mxCell id="-JQnTfBx5oxVQv8R-zzT-59" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-JQnTfBx5oxVQv8R-zzT-4" target="-JQnTfBx5oxVQv8R-zzT-15">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1541" y="1044" />
-              <mxPoint x="1765" y="1069" />
-            </Array>
+            <Array as="points" />
             <mxPoint x="1541" y="1010" as="sourcePoint" />
             <mxPoint x="1765" y="1143" as="targetPoint" />
           </mxGeometry>
@@ -243,6 +237,19 @@
             <mxPoint x="1510" y="882" as="sourcePoint" />
             <mxPoint x="505" y="1137" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="-JQnTfBx5oxVQv8R-zzT-63" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-JQnTfBx5oxVQv8R-zzT-11" target="-JQnTfBx5oxVQv8R-zzT-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1541" y="1044" />
+              <mxPoint x="1765" y="1069" />
+            </Array>
+            <mxPoint x="1500" y="872" as="sourcePoint" />
+            <mxPoint x="308" y="1128" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-JQnTfBx5oxVQv8R-zzT-4" value="④ 工具层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="890" y="1020" width="1316" height="119" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
