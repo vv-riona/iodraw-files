@@ -16,14 +16,8 @@
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-5" value="   智能体层&#xa;&#xa;&#xa;&#xa;" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="680" y="550" width="820" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="-JQnTfBx5oxVQv8R-zzT-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-JQnTfBx5oxVQv8R-zzT-8" target="-JQnTfBx5oxVQv8R-zzT-6">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1864" y="512.5" as="sourcePoint" />
-            <mxPoint x="1377" y="470" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-8" value="用户查询" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="890" y="460" width="88" height="37" as="geometry" />
+          <mxGeometry x="1740" y="620" width="88" height="37" as="geometry" />
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-9" value="结果展示 / 图表" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2278" y="2030" width="136" height="37" as="geometry" />
@@ -63,6 +57,9 @@
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-JQnTfBx5oxVQv8R-zzT-6" target="-JQnTfBx5oxVQv8R-zzT-5">
           <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1090" y="510" />
+            </Array>
             <mxPoint x="1940" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -92,7 +89,7 @@
           <mxGeometry x="640" y="781" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-6" value="任务编排" style="whiteSpace=wrap;strokeWidth=2;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1610" y="480" width="120" height="55" as="geometry" />
+          <mxGeometry x="1550" y="550" width="120" height="55" as="geometry" />
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-11" value="新闻智能体" style="whiteSpace=wrap;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="737" y="594" width="90" height="52" as="geometry" />
