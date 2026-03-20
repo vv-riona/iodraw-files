@@ -5,7 +5,7 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-4" value="④ 工具层&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="640" y="720" width="893" height="170" as="geometry" />
+          <mxGeometry x="588" y="740" width="893" height="170" as="geometry" />
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-1" value="⑦ 汇总与呈现增强" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1874" y="1777" width="262" height="203" as="geometry" />
@@ -158,15 +158,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1835" y="900" as="sourcePoint" />
             <mxPoint x="1885" y="850" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-JQnTfBx5oxVQv8R-zzT-80" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-JQnTfBx5oxVQv8R-zzT-13" target="-JQnTfBx5oxVQv8R-zzT-18">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="570" y="720" as="sourcePoint" />
-            <mxPoint x="620" y="670" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1020" y="710" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-85" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-JQnTfBx5oxVQv8R-zzT-13" target="-JQnTfBx5oxVQv8R-zzT-19">
