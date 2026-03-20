@@ -38,7 +38,7 @@
           <mxGeometry x="1070" y="782" width="156" height="39.5" as="geometry" />
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-20" value="技术指标特征工程" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1340" y="782" width="90" height="52" as="geometry" />
+          <mxGeometry x="1350" y="782" width="60" height="52" as="geometry" />
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-21" value="模型集成" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1339.5" y="870" width="90" height="40" as="geometry" />
