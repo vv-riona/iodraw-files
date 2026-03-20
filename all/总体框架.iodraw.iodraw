@@ -207,7 +207,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-JQnTfBx5oxVQv8R-zzT-124" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-JQnTfBx5oxVQv8R-zzT-102">
+        <mxCell id="-JQnTfBx5oxVQv8R-zzT-124" value="汇集结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-JQnTfBx5oxVQv8R-zzT-102">
           <mxGeometry x="0.7144" y="-25" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
