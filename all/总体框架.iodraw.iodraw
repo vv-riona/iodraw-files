@@ -160,13 +160,13 @@
           <mxGeometry x="1030" y="451" width="120" height="55" as="geometry" />
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-11" value="新闻智能体" style="whiteSpace=wrap;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="770" y="594" width="90" height="52" as="geometry" />
+          <mxGeometry x="737" y="594" width="90" height="52" as="geometry" />
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-12" value="价格追踪智能体" style="whiteSpace=wrap;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="905" y="594" width="98" height="52" as="geometry" />
+          <mxGeometry x="860" y="594" width="98" height="52" as="geometry" />
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-13" value="财报智能体" style="whiteSpace=wrap;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1047.75" y="594" width="89.5" height="52" as="geometry" />
+          <mxGeometry x="990" y="594" width="89.5" height="52" as="geometry" />
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-14" value="投资顾问智能体" style="whiteSpace=wrap;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1182" y="594" width="108.5" height="52" as="geometry" />
@@ -185,7 +185,7 @@
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-76" value="前三者结果汇集" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=1;points=[];movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" connectable="0" parent="-JQnTfBx5oxVQv8R-zzT-56">
           <mxGeometry x="-0.1042" y="9" relative="1" as="geometry">
-            <mxPoint x="10" y="-27" as="offset" />
+            <mxPoint x="5" y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-72" value="可视化智能体" style="whiteSpace=wrap;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
