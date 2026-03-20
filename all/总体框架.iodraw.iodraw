@@ -17,7 +17,7 @@
           <mxGeometry x="160" y="1094" width="1316" height="119" as="geometry" />
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-5" value="③ 智能体 · 分域分析（实现：顺序流水线）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1496" y="738" width="597" height="162" as="geometry" />
+          <mxGeometry x="1494" y="710" width="597" height="162" as="geometry" />
         </mxCell>
         <mxCell id="-JQnTfBx5oxVQv8R-zzT-6" value="② 任务编排" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1685" y="602" width="528" height="87" as="geometry" />
